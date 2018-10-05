@@ -1,15 +1,7 @@
 import React, { Component, Fragment } from "react";
 import ListComponent from "../ListComponent";
-import { Container, Row, Col } from "reactstrap";
-import {
-  Button,
-  Form,
-  FormGroup,
-  Label,
-  Input,
-  InputGroup,
-  InputGroupAddon
-} from "reactstrap";
+import { Row, Col } from "reactstrap";
+import { Button, Input, InputGroup, InputGroupAddon } from "reactstrap";
 import "./style.css";
 
 class FormComponent extends Component {
