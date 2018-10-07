@@ -1,6 +1,28 @@
 ### GIT COMMIT SEARCH DEMO
+```
 > Simple React Search App <br/>
 > Displays top commits using github public api based on user search
+```
+
+
+### Prerequisites
+```
+NodeJS 
+
+Yarn 
+```
+
+### Setup
+
+```
+git clone https://github.com/harshit19932703/project.git
+
+cd project
+
+yarn install
+
+yarn dev
+```
    
 ### SCREENSHOTS  
 > MAIN SCREEN
