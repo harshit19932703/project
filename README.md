@@ -23,6 +23,11 @@ yarn install
 
 yarn dev
 ```
+
+### API HELP FROM GITHUB
+Used: Search Commits API
+
+visit : https://developer.github.com/v3/search/#search-commits
    
 ### SCREENSHOTS  
 > MAIN SCREEN
