@@ -1,6 +1,6 @@
 ### GIT COMMIT SEARCH DEMO
 ```
-> Simple React Search App <br/>
+> Simple React Search App 
 > Displays top commits using github public api based on user search
 ```
 
